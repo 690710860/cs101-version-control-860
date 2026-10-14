@@ -1,1 +1,5 @@
-# cs101-version-control-860
+# My CS Profile
+
+## About Me
+- Name: Suthipot Boonla
+- Major: Computer Science
